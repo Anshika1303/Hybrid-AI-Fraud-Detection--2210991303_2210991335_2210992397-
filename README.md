@@ -12,7 +12,7 @@ Research Project / Research Paper
 
 | Name | Roll Number |
 |------|------|
-| Aastha | 2210991303 |
+| Anshika | 2210991303 |
 | Archita | 2210991335 |
 | Sonali | 2210992397 |
 
