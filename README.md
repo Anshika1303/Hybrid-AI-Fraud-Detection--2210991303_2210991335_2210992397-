@@ -1,7 +1,10 @@
 # A Hybrid AI-Enhanced Transaction Monitoring Framework for Fraud Detection
 
-## 📌 Project Type
-Research Project
+---
+
+# 📌 Project Type
+
+Research Project / Research Paper
 
 ---
 
@@ -15,9 +18,16 @@ Research Project
 
 ---
 
+# 👨‍🏫 Mentor
+
+**Dr. Isha Kansal**  
+Chitkara University Institute of Engineering and Technology
+
+---
+
 # 📖 Project Description
 
-The rapid growth of digital payment systems and online banking platforms has increased the risk of financial frauds such as phishing, QR hijacking, SIM swapping, identity theft, and unauthorized transactions. Traditional fraud detection systems mainly rely on rule-based approaches that often fail to detect modern complex fraud patterns.
+The rapid growth of digital payment systems and online banking platforms has increased the risk of cyber frauds such as phishing, QR hijacking, SIM swapping, identity theft, and unauthorized financial transactions. Traditional fraud detection systems mainly rely on rule-based approaches that often fail to detect modern complex fraud patterns.
 
 This research project proposes a **Hybrid AI-Enhanced Transaction Monitoring Framework** that combines:
 
@@ -37,28 +47,31 @@ The framework analyzes transaction behavior, device information, IP addresses, t
 - Improve transaction monitoring efficiency
 - Perform behavioral and network-level fraud analysis
 - Enhance cybersecurity in digital financial systems
+- Improve fraud detection scalability and accuracy
 
 ---
 
 # 🛠️ Technologies Used
 
-- Python 3.x
-- Pandas
-- NumPy
-- Scikit-learn
-- XGBoost
-- Matplotlib
-- Seaborn
-- Machine Learning
-- Graph-Based Fraud Detection
+| Technology | Purpose |
+|------|------|
+| Python 3.x | Programming Language |
+| Pandas | Data Processing |
+| NumPy | Numerical Computation |
+| Scikit-learn | Machine Learning |
+| XGBoost | Gradient Boosting |
+| Matplotlib | Visualization |
+| Seaborn | Statistical Graphs |
+| Machine Learning | Fraud Detection |
+| Graph-Based Analysis | Network Fraud Detection |
 
 ---
 
 # 🤖 Machine Learning Models Used
 
-1. Logistic Regression
-2. Random Forest
-3. XGBoost
+1. Logistic Regression  
+2. Random Forest  
+3. XGBoost  
 
 ---
 
@@ -67,20 +80,52 @@ The framework analyzes transaction behavior, device information, IP addresses, t
 - Real-Time Fraud Detection
 - Behavioral Transaction Analysis
 - Network-Level Fraud Detection
+- Graph-Based Fraud Monitoring
 - Anomaly Detection
 - Reduced False Positives
 - Explainable AI-Based Monitoring
+- High Accuracy Fraud Classification
+
+---
+
+# 🧠 Hybrid AI Framework
+
+The proposed hybrid framework integrates multiple fraud detection techniques:
+
+- Rule-Based Engine
+- Machine Learning Models
+- Anomaly Detection
+- Graph-Based Fraud Detection
+
+The framework combines these approaches to identify both individual fraudulent transactions and organized fraud networks.
+
+---
+
+# 📂 Dataset Features
+
+| Feature Name | Description |
+|------|------|
+| Transaction ID | Unique transaction identifier |
+| Transaction Amount | Amount transferred |
+| Transaction Time | Time of transaction |
+| Device ID | Device information |
+| IP Address | User IP Address |
+| Location | Geographic transaction location |
+| Transaction Type | UPI / Card / Wallet |
+| Beneficiary ID | Receiver account identifier |
+| Transaction Count | Number of transactions |
+| Target | Fraud / Normal Transaction |
 
 ---
 
 # 📈 Results
 
-| Model | Accuracy |
-|------|------|
-| Logistic Regression | 94% |
-| Random Forest | 98% |
-| XGBoost | 99% |
-| Hybrid Framework | 99.5% |
+| Model | Accuracy | Precision | Recall | F1-Score |
+|------|------|------|------|------|
+| Logistic Regression | 94% | 93% | 92% | 92% |
+| Random Forest | 98% | 97% | 97% | 97% |
+| XGBoost | 99% | 99% | 98% | 98% |
+| Hybrid Framework | 99.5% | 99% | 99% | 99% |
 
 The Hybrid AI Framework achieved the highest fraud detection accuracy with improved precision and reduced false alarms.
 
@@ -91,20 +136,43 @@ The Hybrid AI Framework achieved the highest fraud detection accuracy with impro
 This project contributes towards improving fraud detection systems in modern digital financial ecosystems by integrating AI-based monitoring techniques with traditional rule-based systems.
 
 The proposed framework improves:
-- Detection accuracy
+
+- Detection Accuracy
 - Scalability
-- Real-time monitoring
-- Financial cybersecurity
+- Real-Time Monitoring
+- Fraud Pattern Recognition
+- Financial Cybersecurity
+- Network-Level Fraud Detection
 
 ---
 
 # 📌 Current Status
 
-✅ Research Paper Completed  
-✅ Literature Review Completed  
-✅ Model Analysis Completed  
-✅ Documentation Completed  
-🔄 Further Improvements Ongoing
+✅ Research Paper Successfully Completed  
+✅ Research Paper Submitted to International Conference on AI-Driven Cybersecurity (AICYBER2026)  
+✅ Paper ID Assigned: 41  
+
+---
+
+# 🏆 Research Paper Submission Details
+
+| Field | Details |
+|------|------|
+| Conference Name | International Conference on AI-Driven Cybersecurity (AICYBER2026) |
+| Paper ID | 41 |
+| Primary Subject Area | AI in Cyber Defense |
+| Paper Title | A Hybrid AI-Enhanced Transaction Monitoring Framework for Fraud Detection |
+| Submission Status | Submitted Successfully |
+| Submission Date | 04 May 2026 |
+
+---
+
+# 👨‍🔬 Research Authors
+
+- Dr. Isha Kansal
+- Archita
+- Aastha
+- Sonali
 
 ---
 
@@ -115,23 +183,36 @@ The proposed framework improves:
 - Multi-Class Fraud Classification
 - Deep Learning Optimization
 - Graph Neural Networks
+- Lightweight High-Speed Fraud Detection Models
+
+---
+
+# 📂 Repository Structure
+
+```bash
+Hybrid-AI-Fraud-Detection-(2210991303_2210991335_2210992397)
+│
+├── IPR-Submission-Proof
+│
+├── Report-and-PPT
+│
+├── Source-Code
+│
+└── README.md
+```
 
 ---
 
 # 📄 Research Paper
 
-Project Title:  
+### Project Title:
 **A Hybrid AI-Enhanced Transaction Monitoring Framework for Fraud Detection**
 
-Type:  
+### Type:
 Research Paper
 
+### Domain:
+Artificial Intelligence + Cybersecurity + Financial Fraud Detection
 
+---
 
-# ⭐ Repository Information
-
-Repository Name:
-
-```bash
-Hybrid-AI-Fraud-Detection-(2210991303_2210991335_2210992397)
-```
