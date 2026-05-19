@@ -8,7 +8,7 @@ Research Project / Research Paper
 
 ---
 
-# 👨‍💻 Team Members
+# Team Members
 
 | Name | Roll Number |
 |------|------|
@@ -18,14 +18,14 @@ Research Project / Research Paper
 
 ---
 
-# 👨‍🏫 Mentor
+#  Mentor
 
 **Dr. Isha Kansal**  
 Chitkara University Institute of Engineering and Technology
 
 ---
 
-# 📖 Project Description
+# Project Description
 
 The rapid growth of digital payment systems and online banking platforms has increased the risk of cyber frauds such as phishing, QR hijacking, SIM swapping, identity theft, and unauthorized financial transactions. Traditional fraud detection systems mainly rely on rule-based approaches that often fail to detect modern complex fraud patterns.
 
@@ -40,7 +40,7 @@ The framework analyzes transaction behavior, device information, IP addresses, t
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 - Detect fraudulent financial transactions in real time
 - Reduce false positive alerts
@@ -51,7 +51,7 @@ The framework analyzes transaction behavior, device information, IP addresses, t
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |------|------|
@@ -67,7 +67,7 @@ The framework analyzes transaction behavior, device information, IP addresses, t
 
 ---
 
-# 🤖 Machine Learning Models Used
+# Machine Learning Models Used
 
 1. Logistic Regression  
 2. Random Forest  
@@ -75,7 +75,7 @@ The framework analyzes transaction behavior, device information, IP addresses, t
 
 ---
 
-# 📊 Features of the Proposed Framework
+# Features of the Proposed Framework
 
 - Real-Time Fraud Detection
 - Behavioral Transaction Analysis
@@ -88,7 +88,7 @@ The framework analyzes transaction behavior, device information, IP addresses, t
 
 ---
 
-# 🧠 Hybrid AI Framework
+#  Hybrid AI Framework
 
 The proposed hybrid framework integrates multiple fraud detection techniques:
 
@@ -101,7 +101,7 @@ The framework combines these approaches to identify both individual fraudulent t
 
 ---
 
-# 📂 Dataset Features
+#Dataset Features
 
 | Feature Name | Description |
 |------|------|
@@ -118,7 +118,7 @@ The framework combines these approaches to identify both individual fraudulent t
 
 ---
 
-# 📈 Results
+# Results
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |------|------|------|------|------|
@@ -131,7 +131,7 @@ The Hybrid AI Framework achieved the highest fraud detection accuracy with impro
 
 ---
 
-# 🔍 Research Contribution
+#  Research Contribution
 
 This project contributes towards improving fraud detection systems in modern digital financial ecosystems by integrating AI-based monitoring techniques with traditional rule-based systems.
 
@@ -146,7 +146,7 @@ The proposed framework improves:
 
 ---
 
-# 📌 Current Status
+#  Current Status
 
 ✅ Research Paper Successfully Completed  
 ✅ Research Paper Submitted to International Conference on AI-Driven Cybersecurity (AICYBER2026)  
@@ -154,7 +154,7 @@ The proposed framework improves:
 
 ---
 
-# 🏆 Research Paper Submission Details
+#  Research Paper Submission Details
 
 | Field | Details |
 |------|------|
@@ -167,7 +167,7 @@ The proposed framework improves:
 
 ---
 
-# 👨‍🔬 Research Authors
+#  Research Authors
 
 - Dr. Isha Kansal
 - Archita
@@ -176,7 +176,7 @@ The proposed framework improves:
 
 ---
 
-# 📚 Future Scope
+#  Future Scope
 
 - Blockchain Integration
 - Real-Time Banking Deployment
@@ -187,7 +187,7 @@ The proposed framework improves:
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```bash
 Hybrid-AI-Fraud-Detection-(2210991303_2210991335_2210992397)
@@ -203,7 +203,7 @@ Hybrid-AI-Fraud-Detection-(2210991303_2210991335_2210992397)
 
 ---
 
-# 📄 Research Paper
+#  Research Paper
 
 ### Project Title:
 **A Hybrid AI-Enhanced Transaction Monitoring Framework for Fraud Detection**
